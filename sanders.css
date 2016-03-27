@@ -1,0 +1,22 @@
+.couldsanderswin {
+  font-family: font-family: "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: rgb(3,47,93);
+  text-align: center;
+}
+
+.couldsanderswin .article__heading {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.couldsanderswin .article__answer {
+  color: #62c462;
+  font-size: 60px;
+}
